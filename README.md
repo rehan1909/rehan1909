@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehan1909&label=Profile%20views&color=0e75b6&style=flat" alt="rehan1909" /> </p>
 
-- 🤝 I’m looking for help with **DevOps Roles**
+- 🤝 I’m looking for fresher **DevOps Roles**
 
 - 📫 How to reach me **mohdrihan1909@gmail.com**
 
